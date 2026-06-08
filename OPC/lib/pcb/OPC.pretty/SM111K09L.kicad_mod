@@ -1,0 +1,158 @@
+(footprint "SM111K09L"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "IXOLAR High Efficiency SolarMD")
+	(property "Reference" "REF**"
+		(at 0 -33.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6b6f5e7b-ef6f-49ff-aa12-f2df051a64d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SM111K09L"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ec3074dc-254d-4dd8-ab4a-1657830bf116")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://waf-e.dubudisk.com/anysolar.dubuplus.com/techsupport@anysolar.biz/O18Adzr/DubuDisk/www/Gen2/SM111K09L%20DATA%20SHEET%20202007.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8583c5a4-5263-4c5a-952a-2fea1ce2d068")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SM111K09L"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61a43555-a677-4a08-b3dd-e3ba08c45c1d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -11 -28)
+		(end -11 28)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "449f4784-c15c-4d31-b2f9-860a8d9c53ca")
+	)
+	(fp_line
+		(start -2.45 -24.55)
+		(end 2.45 -24.55)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b24873c3-b49d-43cf-9b66-69a85552ef0f")
+	)
+	(fp_line
+		(start -2.45 24.5)
+		(end 2.45 24.5)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3df972aa-880a-4710-ad9c-3cc1f348f639")
+	)
+	(fp_line
+		(start 0 -27)
+		(end 0 -22.1)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6aeca375-8224-4f0d-8187-726516d78856")
+	)
+	(fp_line
+		(start 11 -28)
+		(end 11 28)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "646071d1-4630-4b79-bf36-a93aea31cf6c")
+	)
+	(fp_rect
+		(start -11.1 -32.6)
+		(end 11.1 32.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "cd4770b9-5000-4bb5-99f4-cc0745eaa318")
+	)
+	(fp_rect
+		(start -10.306348 -30.498572)
+		(end 10.293652 30.501428)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "67d5db64-bcad-4c6e-9fe7-47bdf6c8589d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e17e7a13-c385-4742-99ad-926c5a46a46b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 -30.5)
+		(size 22 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "74a362c6-1ad5-4b17-8303-ff6a3baa57aa")
+	)
+	(pad "2" smd roundrect
+		(at 0 30.5)
+		(size 22 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "c3a79b02-1b8c-4693-95fc-ce69e004ebb8")
+	)
+	(embedded_fonts no)
+)
