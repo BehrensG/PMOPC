@@ -8,7 +8,7 @@
 		(at 0 -33.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "6b6f5e7b-ef6f-49ff-aa12-f2df051a64d4")
+		(uuid "3c6a752c-3b36-4c45-aa22-f818dec3b452")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "ec3074dc-254d-4dd8-ab4a-1657830bf116")
+		(uuid "efe63371-f4c1-4ab7-a75a-c39e3f004c41")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8583c5a4-5263-4c5a-952a-2fea1ce2d068")
+		(uuid "a79529f0-0c0b-49df-b0c9-548451a1d888")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "61a43555-a677-4a08-b3dd-e3ba08c45c1d")
+		(uuid "ad789808-ab75-4968-8a1d-323fa9c78b25")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +64,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "449f4784-c15c-4d31-b2f9-860a8d9c53ca")
+		(uuid "b66dcb16-e6fe-4a31-9fdf-3723dbdf82a1")
 	)
 	(fp_line
 		(start -2.45 -24.55)
@@ -74,7 +74,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b24873c3-b49d-43cf-9b66-69a85552ef0f")
+		(uuid "a0892f2f-70e5-4317-a344-6968f8ad1d84")
 	)
 	(fp_line
 		(start -2.45 24.5)
@@ -84,7 +84,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3df972aa-880a-4710-ad9c-3cc1f348f639")
+		(uuid "9b73d92f-643b-4eec-8ba9-5a007e681cd5")
 	)
 	(fp_line
 		(start 0 -27)
@@ -94,7 +94,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6aeca375-8224-4f0d-8187-726516d78856")
+		(uuid "3300a1cd-968d-48ef-ba8d-075ea9f4ce1a")
 	)
 	(fp_line
 		(start 11 -28)
@@ -104,7 +104,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "646071d1-4630-4b79-bf36-a93aea31cf6c")
+		(uuid "0466df25-5600-4776-a2bd-917667c01e71")
 	)
 	(fp_rect
 		(start -11.1 -32.6)
@@ -115,7 +115,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "cd4770b9-5000-4bb5-99f4-cc0745eaa318")
+		(uuid "c1677b21-549e-4eb6-b844-7486a173cd58")
 	)
 	(fp_rect
 		(start -10.306348 -30.498572)
@@ -126,13 +126,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "67d5db64-bcad-4c6e-9fe7-47bdf6c8589d")
+		(uuid "d2592995-99af-47b1-9969-8069c2fa8ac7")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "e17e7a13-c385-4742-99ad-926c5a46a46b")
+		(uuid "c1e1a31a-aa2f-43e5-bfa4-71f6ac894e81")
 		(effects
 			(font
 				(size 1 1)
@@ -145,14 +145,71 @@
 		(size 22 4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "74a362c6-1ad5-4b17-8303-ff6a3baa57aa")
+		(uuid "134e4098-0ff4-4418-a686-30628e56c0ff")
 	)
 	(pad "2" smd roundrect
 		(at 0 30.5)
 		(size 22 4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "c3a79b02-1b8c-4693-95fc-ce69e004ebb8")
+		(uuid "7fd5951b-8762-4865-a52a-8ca32e053bb8")
 	)
 	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "SM111K09L.stp")
+			(type model)
+			(data |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
+				Ag==|
+			)
+			(checksum "AE5C407456DE9CB15ABE349C29AE5AE9")
+		)
+	)
+	(model "kicad-embed://SM111K09L.stp"
+		(offset
+			(xyz -10.3 -30.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

@@ -63,10 +63,10 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 2,
+          "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.3,
-          "thermal_relief_spoke_width": 3.0
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -675,7 +675,7 @@
         "uuid": "5c55bdfc-b12e-4294-8d2f-813ebb68046e"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#FLG1-2",
     "variants": []
   },
   "sheets": [
