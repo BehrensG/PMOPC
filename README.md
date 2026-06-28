@@ -33,15 +33,67 @@ I mounted only four solar cells due to the layout of the LED board design. Since
  Open Circuit Voltage [V]
 | Expected | Measured |
 | -------- | -------- |
-|**12.44** | **12,18** |
+|**12,44** | **12,18** |
 
 
 Short Circuit Current [mA]
 | Expected | Measured |
 | -------- | -------- |
-|**93.4** | **90** |
+|**93,4** | **90** |
 
 
 
 > [!WARNING]
 > The voltage will start to drop quickly because of the LEDs' thermal management. At 500 mA, the LEDs will get hot very fast as the PCB design is not optimal for heat dissipation.
+
+## LED-OPC distance 20 mm, LED current 500 mA
+
+ Open Circuit Voltage [V]
+| Expected | Measured |
+| -------- | -------- |
+|**12,44** | **12,31** |
+
+
+Short Circuit Current [mA]
+| Expected | Measured |
+| -------- | -------- |
+|**93,4** | **96** |
+
+
+
+> [!WARNING]
+> The voltage will start to drop quickly because of the LEDs' thermal management. At 500 mA, the LEDs will get hot very fast as the PCB design is not optimal for heat dissipation.
+
+## LED-OPC distance 40 mm, LED current 260 mA
+
+ Open Circuit Voltage [V]
+| Expected | Measured |
+| -------- | -------- |
+|**12,44** | **11,62** |
+
+
+Short Circuit Current [mA]
+| Expected | Measured |
+| -------- | -------- |
+|**93,4** | **49** |
+
+
+> [!NOTE]
+> The voltage drop is much slower, the LEDs are not getting hot as fast.
+
+## LED-OPC distance 20 mm, LED current 260 mA
+
+ Open Circuit Voltage [V]
+| Expected | Measured |
+| -------- | -------- |
+|**12,44** | **11,87** |
+
+
+Short Circuit Current [mA]
+| Expected | Measured |
+| -------- | -------- |
+|**93,4** | **53** |
+
+
+> [!NOTE]
+> The voltage drop is much slower, the LEDs are not getting hot as fast.
