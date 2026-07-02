@@ -35,30 +35,35 @@ Used a 34410A DMM for voltage and current measurements. Measurement done for two
   <img src="./images/voltage_no_load.png">
   <figcaption>Figure 1: Open circuit voltage measurement. The LEDs were cooled with a fan. DMM: PLC 10, 1000 samples.</figcaption>
 </figure>
+<br><br>
 
 
 <figure align="center">
   <img src="./images/current_short.png">
   <figcaption>Figure 2: Short circuit current measurement. The LEDs were cooled with a fan. DMM: PLC 10, 1000 samples.</figcaption>
 </figure>
+<br><br>
 
 
 <figure align="center">
   <img src="./images/voltage_load.png">
   <figcaption>Figure 3: Voltage measurement with 110 ohm load. The LEDs were cooled with a fan. DMM: PLC 10, 1000 samples.</figcaption>
 </figure>
+<br><br>
 
 
 <figure align="center">
   <img src="./images/current_load.png">
   <figcaption>Figure 4: Current measurement with 110 ohm load. The LEDs were cooled with a fan. DMM: PLC 10, 1000 samples.</figcaption>
 </figure>
+<br><br>
 
 
 <figure align="center">
   <img src="./images/voltage_load_20mm_cool.png">
   <figcaption>Figure 5: Voltage measurement with 110 ohm load. The LEDs and solar cells were cooled with a fan. DMM: PLC 10, 10000 samples.</figcaption>
 </figure>
+<br><br>
 
 
 <figure align="center">
