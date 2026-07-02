@@ -61,12 +61,12 @@ Used a 34410A DMM for voltage and current measurements. Measurement done for two
 
 <figure align="center">
   <img src="./images/voltage_load_20mm_cool.png">
-  <figcaption>Figure 5: Voltage measurement with 110 ohm load. The LEDs and solar cells were cooled with a fan. DMM: PLC 10, 10000 samples.</figcaption>
+  <figcaption>Figure 5: Voltage measurement with 110 ohm load. The LEDs and solar cells were cooled with a fan. DMM: PLC 10, 10000 samples. Distance 20 mm.</figcaption>
 </figure>
 <br><br>
 
 
 <figure align="center">
   <img src="./images/current_load_20mm_cool.png">
-  <figcaption>Figure 6: Current measurement with 110 ohm load. The LEDs and solar cells were cooled with a fan. DMM: PLC 10, 10000 samples.</figcaption>
+  <figcaption>Figure 6: Current measurement with 110 ohm load. The LEDs and solar cells were cooled with a fan. DMM: PLC 10, 10000 samples. Distance 20 mm.</figcaption>
 </figure>
